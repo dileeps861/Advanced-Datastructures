@@ -1,5 +1,10 @@
 import java.util.Arrays;
 
+/**
+*   Allocate space with given number of spaces, or empty space bloack starting from the given idex.
+*   The below solution is not working correctly.
+*
+**/
 public class Delete {
     public static void main(String[] args) {
         int[] memory = new int[]{0,1,0,0,0,1,1,0,0,0,1,0,0};
