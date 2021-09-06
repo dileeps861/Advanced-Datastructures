@@ -9,3 +9,4 @@ This repository includes implementation of some advanced datastructures such as:
 7. Prims MST
 8. Find cycle in undirected graph
 9. Topological sort
+10. Find cycle in directed graph(Directed graph class contains it)
